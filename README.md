@@ -12,9 +12,9 @@ As a data analyst for a music streaming platform, I have been tasked with analyz
 ## Installation
 
 1. Install MySQL Workbench on your machine.
-2. Import the provided dataset into your MySQL Workbench.
-3. Run the SQL queries to analyze the data.
-4. Interpret the results to generate valuable insights.
+2. Import the provided dataset into your MySQL Workbench (Dataset file attached).
+3. Run the SQL queries to analyze the data (Queries file attached).
+4. Interpret the results to generate valuable insights (Key findings and conclusions file attached).
 
 ## Usage
 
